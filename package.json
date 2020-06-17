@@ -1,5 +1,5 @@
 {
-  "name": "mydailystatus",
+  "name": "mask_corp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,17 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rafaelrato1/myDailyStatus.git"
+    "url": "git+https://github.com/Rafaelrato1/mask_corp.git"
   },
   "author": "Rafael Teixeira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rafaelrato1/myDailyStatus/issues"
+    "url": "https://github.com/Rafaelrato1/mask_corp/issues"
   },
-  "homepage": "https://github.com/Rafaelrato1/myDailyStatus#readme",
+  "homepage": "https://github.com/Rafaelrato1/mask_corp#readme",
   "dependencies": {
-    "@auth0/nextjs-auth0": "^0.13.0",
-    "dotenv": "^8.2.0",
     "next": "^9.4.4",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
